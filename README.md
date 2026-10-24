@@ -20,6 +20,7 @@ For real-time data visualization, order book analytics, and strategy testing, vi
 * **Strategy Backtesting:** Test trading algorithms and conditional probability models against historical market data.
 * **Whale & Volume Tracking:** Identify unusual position sizing and order book shifts before cycle resolution.
 
+polymarket prediction-market crypto-backtesting bitcoin-simulation orderbook-analytics trading-bot crypto-trading
 ---
 
 ## 🛠️ Overview & Architecture
