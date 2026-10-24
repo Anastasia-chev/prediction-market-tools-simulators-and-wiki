@@ -26,4 +26,19 @@ polymarket prediction-market crypto-backtesting bitcoin-simulation orderbook-ana
 ## 🛠️ Overview & Architecture
 
 Prediction markets rely on dynamic order book mechanics where probability directly reflects implied market sentiment. 
+### Supported Metrics
+1. **Implied Probability Yields:** Calculating expected value ($EV$) across short-duration event contracts.
+2. **Order Book Depth Analysis:** Tracking liquidity distribution across outcome tokens.
+3. **Historical Cycle Resolution:** Evaluating accuracy and spread behaviors during peak market volatility.
 
+---
+
+## 🔗 Quick Links & Resources
+
+* **Live Web App:** [poly-sim.com](https://poly-sim.com)
+* **Official Twitter / Updates:** Follow for real-time cycle alerts and data snapshots.
+* **Issue Tracker:** Report data discrepancies or feature requests via the repository [Issues](../../issues) tab.
+
+---
+
+*Disclaimer: This tool and repository are designed for analytical and educational simulation purposes only.*
